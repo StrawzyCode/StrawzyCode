@@ -16,11 +16,15 @@
 # My Coding Stats
 [![Intro](https://github-readme-stats.vercel.app/api?username=StrawzyCode&show_icons=true&theme=dark)](http://therecipedb.com/)   &nbsp;  &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=StrawzyCode&theme=dark)](http://therecipedb.com/)
 
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=StrawzyCode&layout=compact&&theme=dark&link="https://www.github.com/StrawzyCode/") 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=StrawzyCode&theme=dark)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=StrawzyCode&layout=compact&&theme=dark&link="https://www.github.com/StrawzyCode/"" />
+</a>
+
+&nbsp;
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StrawzyCode&layout=compact&theme=dark)](http://therecipedb.com/)
-
-
-
 
 
