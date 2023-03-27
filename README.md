@@ -25,6 +25,5 @@
 
 &nbsp;
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StrawzyCode&layout=compact&theme=dark)](http://therecipedb.com/)
 
 
