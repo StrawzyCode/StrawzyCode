@@ -4,26 +4,23 @@
     <a href="https://github.com/StrawzyCode?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/StrawzyCode?color=4C1&logo=github"></a>
     <a href="https://github.com/StrawzyCode/StrawzyCode" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/StrawzyCode/StrawzyCode?label=Profile%20update&style=fflat-square"></a>
 </p> 
+Hello! I'm Charlie or StrawzyCode and I'm am a budding coder who enjoys statistics and data manipulation code. This means I am an avid enjoyer of Football Manager, and will try and streamline my gameplay as much as possible.
 
-<table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg" height="15"> English ★★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/bl.svg" height="15"> French ★★☆☆☆</a></td></tr>
-</table>
-
+## 🌐 Contact Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-h-5ab00b290)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FFCJam)
 # My Programs 
-[![My Skills](https://skillicons.dev/icons?i=js,discord,heroku,nodejs,py,twitter,latex,instagram,github&theme=dark)](https://www.google.com/)
-# My Coding Stats
-[![Intro](https://github-readme-stats.vercel.app/api?username=StrawzyCode&show_icons=true&theme=dark)](http://therecipedb.com/)   &nbsp;  &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=StrawzyCode&theme=dark)](http://therecipedb.com/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,latex,bash&theme=dark)](https://www.google.com/)
+## 📊 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=StrawzyCode&show_icons=true&theme=radical" alt="StrawzyCode's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrawzyCode&layout=compact&theme=radical" alt="Top Languages" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=StrawzyCode&theme=dark)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=StrawzyCode&layout=compact&&theme=dark&link="https://www.github.com/StrawzyCode/"" />
-</a>
 
-&nbsp;
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrawzyCode&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StrawzyCode&theme=radical" alt="GitHub Trophies" />
+</p>
 
 
 
