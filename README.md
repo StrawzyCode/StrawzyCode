@@ -4,7 +4,7 @@
     <a href="https://github.com/StrawzyCode?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/StrawzyCode?color=4C1&logo=github"></a>
     <a href="https://github.com/StrawzyCode/StrawzyCode" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/StrawzyCode/StrawzyCode?label=Profile%20update&style=fflat-square"></a>
 </p> 
-Hello! I'm Charlie or StrawzyCode and I'm am a budding coder who enjoys statistics and data manipulation code. This means I am an avid enjoyer of Football Manager, and will try and streamline my gameplay as much as possible.
+Hello! I'm Charlie or StrawzyCode and I'm am a budding coder who enjoys statistics and data manipulation code. I am also an avid enjoyer of Football Manager, which means I will try and streamline my gameplay as much as possible through programs and code I create.
 
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-h-5ab00b290)
