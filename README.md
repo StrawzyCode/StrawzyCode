@@ -12,7 +12,7 @@ Hello! I'm Charlie or StrawzyCode and I'm am a coder who enjoys statistics and d
 # My Programs 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,latex,bash&theme=dark)](https://www.google.com/)
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67bdbe30a8c88d6e359a4f2d?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67bdbe30a8c88d6e359a4f2d?variant=dark&roadmaps=python%2Caws%2Cdata-analyst%2Csql" alt="roadmap.sh"/></a>
 ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=StrawzyCode&show_icons=true&theme=radical" alt="StrawzyCode's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrawzyCode&layout=compact&theme=radical" alt="Top Languages" />
