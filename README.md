@@ -4,13 +4,15 @@
     <a href="https://github.com/StrawzyCode?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/StrawzyCode?color=4C1&logo=github"></a>
     <a href="https://github.com/StrawzyCode/StrawzyCode" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/StrawzyCode/StrawzyCode?label=Profile%20update&style=fflat-square"></a>
 </p> 
-Hello! I'm Charlie or StrawzyCode and I'm am a budding coder who enjoys statistics and data manipulation code. I am also an avid enjoyer of Football Manager, which means I will try and streamline my gameplay as much as possible through programs and code I create.
+Hello! I'm Charlie or StrawzyCode and I'm am a coder who enjoys statistics and data manipulation. I am also an avid enjoyer of Football Manager, which means I will try and streamline my gameplay as much as possible through programs and code I create.
 
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlie-h-5ab00b290)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FFCJam)
 # My Programs 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs,latex,bash&theme=dark)](https://www.google.com/)
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67bdbe30a8c88d6e359a4f2d?variant=dark" alt="roadmap.sh"/></a>
 ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=StrawzyCode&show_icons=true&theme=radical" alt="StrawzyCode's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrawzyCode&layout=compact&theme=radical" alt="Top Languages" />
